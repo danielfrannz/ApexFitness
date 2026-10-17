@@ -1,0 +1,8 @@
+{
+  "name": "ApexFitness",
+  "description": "Aplikasi olahraga 30 hari dengan mode gelap atletis, pemantauan kalori terintegrasi, dan grafik progres berat badan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
